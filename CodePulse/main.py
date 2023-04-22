@@ -41,6 +41,6 @@ def main():
 
 
 if __name__ == "__main__":
-    # main()
-    driver = webdriver_loader.load_webdriver("35389")
+    main()
+    # driver = webdriver_loader.load_webdriver("35389")
     # webdriver_loader.load_codepulse_on_web(driver, "35389")

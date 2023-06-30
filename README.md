@@ -1,4 +1,4 @@
-# Cose-Pulse
+# Code-Pulse
 
 [Here](https://github.com/amkamir82/Cose-Pulse/blob/master/codepulse-task.pdf) you can find the document for thie task.
 

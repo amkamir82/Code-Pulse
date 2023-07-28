@@ -1,5 +1,7 @@
 # Code-Pulse
 
+Automate Code Pulse python script
+
 [Here](https://github.com/amkamir82/Cose-Pulse/blob/master/codepulse-task.pdf) you can find the document for thie task.
 
 [Here](https://github.com/amkamir82/Cose-Pulse/blob/master/Mars4_5.jar.pulse) you can find the exporting data of Mars.
